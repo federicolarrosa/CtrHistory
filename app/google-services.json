@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451763830240",
+    "project_id": "ctrhistory-5dfdb",
+    "storage_bucket": "ctrhistory-5dfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451763830240:android:cc248cb48d34b163c33f85",
+        "android_client_info": {
+          "package_name": "com.app.ctrhistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451763830240-ennajhd23v16lqm64ukqfnf6u81eekvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNil_MV7ZXzvxPANHIJzyesL_WISw8uEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451763830240-ennajhd23v16lqm64ukqfnf6u81eekvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

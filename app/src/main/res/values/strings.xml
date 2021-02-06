@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CtrHistory</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Estaca_Districto">Estaca_Districto</string>
+    <string name="Barrio_Rama">Barrio_Rama</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Ingresar">registrar</string>
+</resources>
